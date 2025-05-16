@@ -31,6 +31,8 @@ docker-compose exec -it postgres psql "postgres://platformatory:plf_password@pos
   - Output all calculations where the avg. temp. is greater than 100 and the rpm is greater than 3000. 
   - The output should include the vehicle information as well
 
-### TODO
+---
+
+### Future requirements (Lacks sufficient data) 
 
 - Calculate the nearest service center when the above conditions are met.
